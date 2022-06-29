@@ -26,4 +26,7 @@ We provide a spescial palastinian dishes which you will totaly love.
 [Our Menu Link](https://www.foodnetwork.com/fn-dish/news/2014/09/restaurant-menus-get-lean-and-mean)
 
 ## Our WebSite
+the image below shows how home page of our web site will be. <br>
+Just in case you would like to give us your opinion.
+
 ![](https://i.ibb.co/y8cpdF7/Untitled.jpg)
