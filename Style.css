@@ -1,0 +1,16 @@
+body {background-color: #FAEDCD;}
+
+h1 {color:blueviolet;padding-left: 20%;padding-right: 20% ;
+    font-family: 'Fira Sans', sans-serif;text-align: center; font-size: 50px;border-style: dotted;border: 1ch;;}
+    #t {background-color:salmon;}
+    #a {color: blue; font-size: 30px; border-style: dashed; padding-right:35cm;}
+    #b {color: brown; border-style: dashed; font-size: 1cm;}
+    #c {color:brown; border-style: dashed;font-size: 1cm;}
+
+    main {background-color:seagreen ;}
+    footer {background-color: salmon;}
+
+    #d {border-radius: 50%; width:500px; height: 500px;}
+
+    #f {font-size: 0.8cm; padding-left: 3cm;}
+    #k {font-size:0.5cm;}
